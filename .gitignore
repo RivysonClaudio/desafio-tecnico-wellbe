@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__
+
+storage/*
+!storage/.gitkeep
+!storage/Desafio - RPA.pdf

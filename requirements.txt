@@ -1,0 +1,6 @@
+# Desafio Wellbe — dependências diretas (versões alinhadas ao venv atual)
+
+Django==6.0.4
+python-dotenv==1.2.2
+playwright==1.58.0
+psycopg2-binary==2.9.11
