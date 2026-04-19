@@ -59,6 +59,16 @@ python manage.py migrate
 python main.py
 ```
 
+## Demonstrações
+
+### Chromium (Playwright no RPA Challenge)
+
+![Demonstração no Chromium](assets/wellbe_chromium_ex.gif)
+
+### Terminal (execução do `main.py`)
+
+![Demonstração no terminal](assets/wellbe_terminal_ex.gif)
+
 ## Organização do código
 
 | Caminho           | Função |
